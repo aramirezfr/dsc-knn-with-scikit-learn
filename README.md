@@ -1,4 +1,3 @@
-
 # KNN with scikit-learn
 
 ## Introduction
@@ -21,7 +20,7 @@ As a rule of thumb, you should familiarize yourself with any documentation avail
 
 For example, the following image can be found in the scikit-learn user guide for K-Nearest Neighbors, along with an explanation of how different parameters can affect the overall performance of the model. 
 
-<img src='images/knn_docs.png'>
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/knn_docs.png'>
 
 ## Best practices
 
